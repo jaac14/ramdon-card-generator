@@ -1,1 +1,9 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.heart,
+.diamont {
+  color: red;
+}
+
+.picka,
+.trebor {
+  color: black;
+}
